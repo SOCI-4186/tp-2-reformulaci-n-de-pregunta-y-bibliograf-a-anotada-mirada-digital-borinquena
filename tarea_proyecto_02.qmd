@@ -1,7 +1,10 @@
 ---
 title: "SOCI 4186"
-subtitle: "Tarea de Proyecto de Investigación — №2  \nReformulación de pregunta y Bibliografía anotada  \nIndividual / Nombre del grupo"
-author: "Pon tu nombre aquí  \nNúmero de estudiante"
+subtitle: "Tarea de Proyecto de Investigación — №2  \nReformulación de pregunta y Bibliografía anotada  \nMirada Digital Borinqueña"
+author: #Nombre: Victoria C. García Merced \801-22-1027 
+        #Afiliación: Estudiante n1
+        #Nombre: Luis G. Jiménez Berrios \801-23-9511
+        #Afiliación: Estudiante n2
 date: today
 date-format: long
 lang: es
@@ -66,11 +69,19 @@ El documento debe incluir:
 Presente su pregunta de investigación refinada y, en 250–500 palabras, responda a las siguientes preguntas sobre ella:
 
 - ¿Es la pregunta principalmente de tipo inductiva o deductiva?
+#La pregunta “¿Varía la percepción de la vigilancia digital según la edad o el nivel de uso de redes sociales en Puerto Rico?” es principalmente de tipo deductiva. Esto se debe a que busca ir de lo general a lo particular. Queremos investigar cómo la vigilancia digital varia o es percibida de acuerdo con la edad o el nivel de uso de redes sociales de la población puertorriqueña. 
+
 - ¿Por qué es interesante e importante? (Revise la presentación *Repaso diseño en Ciencias Sociales*, disponible en Teams, para recordar cómo argumentar la relevancia).
+#Este tema nos parece importante ya que incluye un aspecto novedoso, siendo entonces la era tecnológica. Además, se complementa con una teoría clásica, siendo esta la teoría del panóptico de Michel Foucault. Creando entonces lo que sería un contraste entre la modernidad y lo pasado. De igual manera, la vigilancia virtual es un problema que enfrenta nuestra sociedad como colectivo. No todos reconocen la problemática, por lo que merece su atención y alerta. 
+
 - ¿Cómo aborda su pregunta una brecha en la literatura relevante?
+#A pesar de que la vigilancia virtual tiene bastante literatura, no hay investigaciones dirigidas a poblaciones, al menos no en gran cantidad. De igual manera, no hay escritos que incluyan a la sociedad puertorriqueña para ejemplificar o entender el tema, por lo menos en este preciso momento que nos encontramos haciendo la investigación. En esta investigación estaríamos aportando una diversidad para el tema. 
+
 - ¿Cuáles son las implicaciones de responderla? (¿Qué aprenderemos de su investigación?).
+#Entendemos que nuestra investigación será de buen uso para aportar al tema desde una perspectiva nueva e hispana. Aprenderemos sobre cómo nuestro país aborda las redes sociales y si estos creen que existe un problema en estas. De igual manera será interesante contrastar las diferencias por edades si es que existe alguna. 
 
 [Escriba aquí su reformulación de la pregunta de investigación...]
+#: ¿Varía la percepción de la vigilancia digital según la edad o el nivel de uso de redes sociales en Puerto Rico?
 
 ---
 
@@ -89,39 +100,44 @@ Una vez que haya delimitado su tema, elabore una pequeña bibliografía anotada 
 1. Una cita en formato APA (use la sintaxis `@clave` de Quarto para citar automáticamente desde su archivo `.bib`).
 2. Un párrafo resumen (tres o cuatro oraciones) por fuente, explicando los puntos principales y cómo esta es útil para su investigación. No copie textos directamente de las fuentes. Las reglas de plagio aplican.
 
-## Ejemplo de entrada en la bibliografía anotada
-
-::: {.callout-warning}
-## Borre este ejemplo antes de entregar
-
-La siguiente entrada es un **ejemplo ilustrativo**. Debe **eliminarla** de su documento y sustituirla por sus propias fuentes en la sección «Sus fuentes anotadas» más abajo.
-:::
-
-**1.** @hall2009institutional
-
-**Anotación:** En este artículo, Hall y Thelen exploran cómo las instituciones económicas evolucionan en diferentes sistemas de economía de mercado. Analizan los mecanismos de cambio institucional y argumentan que las instituciones no son estáticas, sino que cambian a través de procesos graduales influenciados por actores políticos y económicos. El estudio adopta un enfoque deductivo, desarrollando su marco teórico a partir de conceptos existentes, y utiliza análisis teórico y comparativo para determinar sus hallazgos estudiando casos.
-
----
-
 ## Sus fuentes anotadas
 
 [Agregue aquí sus 5-8 fuentes con sus respectivas anotaciones...]
 
-**1.** [Cita de la fuente 1]
 
-**Anotación:** [Su anotación aquí...]
+**1.@alam2021how** 
+**Anotación:En este artículo el autor nos presenta cómo a través de medios artísticos de entretenimiento se expone el uso de vigilancia por consecuencia del ataque 9/11. Dando un trasfondo del panóptico de Foucault, es claro que existen los mecanismos para la observación masiva por diseño. Da ejemplos como el libro de George Orwell “1984,” una sátira de los regímenes opresivos y su uso de la vigilancia masiva, que, al contrastarlo con la sociedad actual, no se aleja de la realidad. Este artículo ayuda a presentar un poco de las condiciones sociales contemporáneas y su relación con la vigilancia.**  
 
-**2.** [Cita de la fuente 2]
+**2. @ball2012routledge**
+**Anotación:Los autores que contribuyeron en este libro lo hicieron con el fin de aportar un sin número de maneras de comprender lo que es vigilancia social. Además, cómo la misma puede ser comprendida en diferentes contextos, en las diversas culturas. Al igual que cómo la tecnología influye grandemente en que sea percibida de manera distinta. No toda tecnología está hecha para ayudar al ser humano, aunque lo parezca. Esta lectura nos ayuda a comprender por qué debemos ser juiciosos y precavidos a la hora de sumergirnos en el mundo de la tecnología o al ser “controlados”.** 
 
-**Anotación:** [Su anotación aquí...]
+**3.@bartolome2021redes**
+**Anotación: Este artículo muestra lo que es la vigilancia digital desde la perspectiva de la ciberseguridad. Nos informa que lo que es el acceso al internet, hoy es considerado parte de los derechos humanos. Esto a pesar de que no está bajo la jurisdicción de ningún Estado. Pero, a pesar de ser un derecho, hay una rama de la ciberseguridad que se toma su tiempo abordar la mal práctica del internet. Por tal razón, crean unas herramientas y políticas para proteger los usuarios del internet. Este texto nos da una aportación legal para nuestra investigación. Ayudándonos a entender por qué el panóptico virtual no es un beneficio para la sociedad.**   
 
-[Continúe con las demás fuentes...]
+**4.@foucault1997discipline**
+**Anotación: El autor francés Michael Focault argumentaba que la supuesta existencia de un panóptico virtual influirá en el comportamiento de los individuos que componen una sociedad. Influirá de manera tal que al saber o imaginarse que están siendo observados actuaran de una manera determinada. Esta obra es pertinente con lo que tratamos de investigar a causa de que proporciona el marco teórico de un pasado, y adoptarlo a la actualidad nos ayudará a tener una mejor visión de lo que queremos lograr. Sin conocer el pasado, no podemos avanzar hacia un prospero futuro.**
+
+**5.@lyon2018the**
+**Anotación: Este autor expone que la vigilancia en la actualidad se ha vuelto una “norma social” Es algo que los ciudadanos no se cuestionan mucho pero el gobierno al igual que grandes corporaciones se nutren de información privada la cual se provee o se da porque ayudará a que tengamos una mejor “seguridad”. Lo cual es totalmente falso, utilizan esa información como un poder sobre nosotros. Poder el cual nosotros mismos regalamos imaginado que nos hará un bien cuando en realidad no. Por esa razón es importante reconocer este artículo académico porque ayuda a que comprendamos que no siempre las compañías o gobiernos quieren lo mejor para sus ciudadanos, si no establecer o tener un control sobre los mismos.**
+
+
+**6.@manokha2018surveillance**
+**Anotación: La propuesta de este autor en este artículo es presentar una perspectiva más contemporánea de la teoría del panóptico. Mientras literatura existente descarta la teoría por no estar a la par con la sociedad actual, aquí se buscan las dimensiones que podrían estudiarse actualmente. La línea que se sigue en esta discusión es la noción del poder. Presentando que los individuos ejercen poder sobre sí mismos, conociendo que están bajo vigilancia y sin la obligación por parte de otros.  Esto causado por el hecho de que estos individuos buscan encajar en ciertos grupos o por lo contrario. Un marco que se podría presentar en la sociedad actual puertorriqueña.**
+
+**7.@romele2017panopticism**
+**Anotación: Romele, Gallino, Emmenegger y Gorgone argumentan que inicialmente el mundo virtual parecía ser una utopía en la que nadie podría saber quién eres; tu raza, tu sexo, etc. Con la evolución de la tecnología y la entrada de las redes sociales, esto ya no es lo que se piensa. Ahora, es un individuo en el centro, rodeado por el sistema que lo controla, el panóptico en reversa. Es por esto por lo que presentan el concepto de servidumbre voluntaria, donde las personas eligen ser sumisos creyendo que al elegirlo es una práctica de su libertad. Un concepto que se podía explorar y definir en la cantidad de uso de redes sociales de nuestra población a estudiar.**
+
+**8.@tække2011digital**
+**Anotación: Tække nos explica cómo el panóptico virtual se ve en el poder que ejercen las organizaciones. En las organizaciones no solo hay reglas, hay también expectativas; es por esto por lo que se actúa de acuerdo con estas. El autor explica que los individuos saben que están siendo observados y es posible que haya alguna compensación si se presentan como la organización espera que se presenten. En este caso, la tecnología entra como uno de los actores en esta red. A pesar de que nuestra investigación tiene un enfoque sobre las redes sociales, las organizaciones son parte de estos medios. Por lo que este artículo nos puede dar información valiosa para su interpretación** 
+
 
 ---
 
 # Declaración de uso de MEL {.unnumbered}
 
 [Si utilizó herramientas de Modelos Extensos de Lenguaje (MEL/LLM), complete esta sección según las instrucciones del sílabo. De lo contrario, indique "No se utilizaron herramientas de MEL en esta tarea."]
+
+#No se utilizaron herramientas de MEL en esta tarea.
 
 ---
 
